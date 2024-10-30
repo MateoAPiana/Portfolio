@@ -87,22 +87,6 @@ import photoperfil from "../../../../public/img/photo-perfil.webp";
   </dir>
 </div>
 
-<script>
-  const letters = document.querySelectorAll(".p-profesion");
-  letters.forEach((letter) => {
-    letter.addEventListener("mouseenter", () => {
-      toogle(letter);
-    });
-  });
-
-  function toogle(letter) {
-    letter.classList.add("bouncing");
-    letter.addEventListener("animationend", () => {
-      letter.classList.remove("bouncing");
-    });
-  }
-</script>
-
 <style>
   .content-presentation {
     position: relative;
