@@ -1,18 +1,12 @@
 export const studies = [
   {
-    title: "Técnico en desarrollo de software",
-    corporation: "SENA - Montería (Córdoba) ",
-    date: "02/2019 – 12/2019",
+    title: "Conocimientos básicos Front-end React Js y backend Node.js",
+    corporation: "Autodidacta - Remoto",
   },
   {
-    title: "Desarrollador Front-end React Js",
-    corporation: "Alura Latam - Remoto",
-    date: "04/2023 – 09/2023",
-  },
-  {
-    title: "Curso profesional de React Js",
-    corporation: "Código facilito - Remoto",
-    date: "04/2023 – 04/2023",
+    title: "Curso de Full-Stack con Next.js y manejo de bases de datos MongoDB",
+    corporation: "Platzi - Remoto",
+    date: "02/2025 - 06/2025",
   },
 ];
 
