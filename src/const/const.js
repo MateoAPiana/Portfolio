@@ -32,7 +32,9 @@ export const IconKeys = {
   nodejs: "nodejs",
   mongodb: "mongodb",
   vite: "vite",
-  // here add more icon keys
+  mySql: "MySQL",
+  sqlite: "SQLite",
+  graphQL: "GraphQL"
 };
 
 export const skills = [
@@ -81,6 +83,22 @@ export const skills = [
     title: "Zustand",
     icon: IconKeys.zustand,
   },
+  {
+    title: "MongoDB",
+    icon: IconKeys.mongodb
+  },
+  {
+    title: "MySQL",
+    icon: IconKeys.mySql
+  },
+  {
+    title: "SQLite",
+    icon: IconKeys.sqlite
+  },
+  {
+    title: "GraphQL",
+    icon: IconKeys.graphQL
+  }
 ]
 
 export const projects = [
