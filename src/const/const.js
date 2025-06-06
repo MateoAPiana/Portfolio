@@ -66,25 +66,12 @@ export const skills = [
     icon: IconKeys.github,
   },
   {
-    title: "Material UI",
-    icon: IconKeys.materialUi,
-  },
-
-  {
-    title: "Redux Js",
-    icon: IconKeys.redux,
-  },
-  {
     title: "Node Js",
     icon: IconKeys.nodejs,
   },
   {
     title: "TypeScript",
     icon: IconKeys.typeScript,
-  },
-  {
-    title: "React Query",
-    icon: IconKeys.reactQuery,
   },
   {
     title: "Vite",
