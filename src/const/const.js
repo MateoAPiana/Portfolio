@@ -105,7 +105,7 @@ export const projects = [
   {
     img: "../../../img/chess-project.png",
     title: "Chess",
-    link: "https://task-manager-ecru-chi.vercel.app/dashboard",
+    link: "https://chess.mateoapiana.website",
     description: `Administrador de tareas con drag and drop autenticación con Clerk , shadcn.  "En Desarrollo "`,
     technologies: [
       {
